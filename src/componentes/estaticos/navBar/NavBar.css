@@ -1,0 +1,24 @@
+.back{
+    background:linear-gradient(36deg,#1a7365,#1900ff11)!important
+
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.colorN{
+    color:white!important
+}
+
+.corL{
+    color: #3F51B5!important
+}
+
+.caixaB{
+    background-color: white!important
+}

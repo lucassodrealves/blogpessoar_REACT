@@ -1,0 +1,59 @@
+.img{
+    width:290px;
+    height:290px; 
+    display:block;
+    margin:0 auto
+}
+
+.background{
+  /*  background-image:url("../../assets/img/");*/
+    background-repeat:no-repeat;
+    background-color:aliceblue;
+
+    width:100vh;
+    min-height:calc(100vh - 64px);
+
+    background-size:cover;
+    background-position:center;
+}
+.card{
+background:linear-gradient(36deg,#ff1199 8%,#ff9900 90%);
+}
+
+.form-title{
+    font-weight:bold!important;
+    color:#ffffff!important;
+}
+.form{
+width:230px;
+}
+
+.caixa{
+    background-color: #3F51B5!important
+}
+
+.caixaB{
+    background-color: white!important
+
+}
+
+.titulo{
+    color: white!important;
+     font-weight: bold!important
+
+}
+
+.botao{
+    border-color: white!important;
+    background-color: #3F51B5!important;
+    color: white!important
+}
+
+.postagens{
+    background-color: "white"!important
+}
+
+
+
+
+

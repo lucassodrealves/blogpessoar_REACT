@@ -1,0 +1,25 @@
+.tituloC{
+
+    font-weight:bold!important
+
+}
+
+.button{
+    padding:11px!important;
+    margin:53px!important;
+    
+}
+
+.margin-bottom{
+    margin-bottom: 15px!important;
+}
+
+.imgC{
+    background-image:url(../../assets/img/coruja.jpg);
+    background-repeat:no-repeat;
+    width:100vh;
+    min-height:100vh;
+    background-size:'cover';
+    background-position:center
+
+}
